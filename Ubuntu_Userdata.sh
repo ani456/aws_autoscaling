@@ -13,6 +13,7 @@ sudo apt-get install -y \
   nfs-common \
   stunnel4
 
+
   echo "Go version: $(go version)"
 echo "Rust version: $(rustc --version)"
 echo "CMake version: $(cmake --version | head -1)"
